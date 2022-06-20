@@ -35,6 +35,9 @@
 
     margin: 15px 0;
 }
+.popular-card:last-child {
+    margin-bottom: 40px;
+}
 .popular-card article {
     display: flex;
 }

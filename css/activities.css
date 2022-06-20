@@ -83,7 +83,6 @@
 .white-bg {
     display: flex;
     align-items: center;
-    height: 60px !important;
     border-radius: 0px 0px 25px 25px;
     box-shadow: 1px 5px 8px #e2e2e2;
 }
