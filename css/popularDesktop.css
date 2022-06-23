@@ -40,6 +40,7 @@
 }
 .popular-card article {
     display: flex;
+    margin-right: 5px;
 }
 .popular-card a {
     display: flex;
