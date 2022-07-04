@@ -11,6 +11,9 @@
         width: 100%;
         margin-bottom: 20px;
     }
+    .activity-card img {
+        height: 150px;
+    }
     
     .activity-card-title {
         display: block;
@@ -27,6 +30,10 @@
     }
     .double-cards:first-of-type {
         margin-right: 0;
+    }
+
+    .double-activity-card img {
+        height: 150px !important;
     }
     
     .double-cards .activity-card-title {
